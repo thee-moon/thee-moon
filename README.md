@@ -4,7 +4,7 @@
   <img src="https://iiitl.ac.in/wp-content/uploads/2019/10/Final_Logo_IIITL.png" width="100"/>
 </div>
 
-- 💻 I have worked as an SDE intern @ ServiceNow in Summer 2022. Upcoming SDE'2023 @ ServiceNow.
+- 💻 I have worked as an SDE intern @ ServiceNow in Summer 2022.
 - 🔭 I’m currently a Computer Science final year Student @ IIIT Lucknow.
 - 📖 I'm proficient with Data Structures and Algorithms and Problem Solving .
 - 🌱 I’m currently learning NodeJS.
