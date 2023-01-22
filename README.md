@@ -38,4 +38,4 @@
 
 <h3 align="left">LeetCode Stats:</h3>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/gshashank?theme=unicorn&ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Shashank__gupta?theme=unicorn&ext=contest)
